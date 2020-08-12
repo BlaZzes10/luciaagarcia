@@ -2,6 +2,11 @@
 <img align='right' src='https://media.giphy.com/media/3orifi5ssKvEpp4V5m/giphy.gif' width='300"'>
 <h3> 👩🏽‍💻 About me </h3>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luciaagarcial)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luc%C3%ADa-alfonso-garc%C3%ADa-b86981144/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+
 - 📚 Actualmente estoy en 4º de Ingeniería Informática [ TI ] en [Escuela Superior de Informática](https://esi.uclm.es/). 
 - 💼 Becaria como "Soporte Técnico en la imagen digital y redes sociales" en ESI.
 - 🔍 Interesada en desarrollo web y móvil
@@ -25,27 +30,3 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <br/><br/>
-<h3> 🤝🏻 Connect with Me </h3>
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luciaagarcial)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luc%C3%ADa-alfonso-garc%C3%ADa-b86981144/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
-
-<!--
-**luciaagarcia/luciaagarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
